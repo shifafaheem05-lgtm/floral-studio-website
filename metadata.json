@@ -1,0 +1,6 @@
+{
+  "name": "Floral Twistella",
+  "description": "Boutique floral-art studio specializing in handmade crochet flowers, plush velvet pipe cleaner sticks bouquets, creative fiber craft workshops, and everlasting floral keepsakes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
